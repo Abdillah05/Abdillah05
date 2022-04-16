@@ -2,7 +2,7 @@
 
 
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a FrontEnd Developer
 - 💪 I like to write code
 - 🎉 I like go to gym and reading
 - 🥅 I am constantly learning new things
