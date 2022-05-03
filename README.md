@@ -46,7 +46,7 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abdillah05&show_icons=true" />
 </details>
 
-[telegram]: https://t.me/chutPokocaniy
+[telegram]: https://t.me/Sandaak
 [instagram]: https://www.instagram.com/kkurbanov/
 [twitter]: https://www.twitter.com
 
