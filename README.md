@@ -12,8 +12,6 @@
 
 
 [<img align="left" alt="AbdullaKurbanov | YouTube" width="40px" src="https://st2.depositphotos.com/1998781/11552/v/600/depositphotos_115529474-stock-illustration-aircraft-vector-logo-icon-flat.jpg" />][telegram]
-[<img align="left" alt="AbdullaKurbanov | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AbdullaKurbanov | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
@@ -47,7 +45,5 @@
 </details>
 
 [telegram]: https://t.me/Sandaak
-[instagram]: https://www.instagram.com/kkurbanov/
-[twitter]: https://www.twitter.com
 
 
