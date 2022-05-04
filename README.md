@@ -8,7 +8,7 @@
 - 🥅 I am constantly learning new things
 - 🤹🏽 I like to have a professional attitude
 
-### Connect with me:
+### Contact with me:
 
 
 [<img align="left" alt="AbdullaKurbanov | YouTube" width="40px" src="https://st2.depositphotos.com/1998781/11552/v/600/depositphotos_115529474-stock-illustration-aircraft-vector-logo-icon-flat.jpg" />][telegram]
